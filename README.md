@@ -1,7 +1,3 @@
-Claro, aqui vai o README atualizado incluindo a referência direta ao dataset do Kaggle, mantendo o mesmo tom profissional:
-
----
-
 # World Happiness Prediction
 
 Este projeto utiliza dados do **World Happiness Report** para analisar fatores socioeconômicos e prever o **Índice de Felicidade** de países ao longo dos anos. A abordagem combina análise exploratória, pré-processamento de dados e modelagem com diferentes algoritmos de regressão em Machine Learning.
@@ -95,13 +91,3 @@ Esses resultados reforçam que o bem-estar coletivo depende de uma combinação 
 
 Este projeto é distribuído sob a licença **MIT**.
 Copyright © 2025 **Felipe Cidade**
-
----
-
-Se quiser, ainda posso gerar um:
-
-📌 `requirements.txt`
-📌 `.gitignore` otimizado para notebooks + Python
-📌 badge visual pro README (ex: MIT, Python version)
-
-Quer algum deles?
