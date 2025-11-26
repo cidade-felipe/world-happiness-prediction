@@ -1,6 +1,13 @@
+Claro, aqui vai o README atualizado incluindo a referência direta ao dataset do Kaggle, mantendo o mesmo tom profissional:
+
+---
+
 # World Happiness Prediction
 
 Este projeto utiliza dados do **World Happiness Report** para analisar fatores socioeconômicos e prever o **Índice de Felicidade** de países ao longo dos anos. A abordagem combina análise exploratória, pré-processamento de dados e modelagem com diferentes algoritmos de regressão em Machine Learning.
+
+O dataset original foi obtido a partir do Kaggle e pode ser acessado em:
+[[https://www.kaggle.com/datasets/usamabuttar/world-happiness-report-2005-present?utm_source=chatgpt.com&select=World+Happiness+Report.csv](https://www.kaggle.com/datasets/usamabuttar/world-happiness-report-2005-present?utm_source=chatgpt.com&select=World+Happiness+Report.csv](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021))
 
 O objetivo é demonstrar como indicadores econômicos, sociais e emocionais podem ser usados para construir modelos capazes de prever o bem-estar médio de uma população, e identificar quais fatores exercem maior influência nesse resultado.
 
@@ -50,7 +57,7 @@ Foram avaliados três modelos:
 | **Random Forest** | **0.856**       | **0.410**         | Melhor desempenho geral sem necessidade de tuning complexo.        |
 | XGBoost           | 0.850           | 0.418             | Desempenho próximo ao Random Forest, pode melhorar com otimização. |
 
-Além das métricas, a análise com **SHAP** revelou os fatores de maior impacto na felicidade global:
+A análise interpretativa utilizando **SHAP** destacou as variáveis com maior impacto na felicidade global:
 
 * PIB per capita
 * Afeto positivo
@@ -60,7 +67,7 @@ Além das métricas, a análise com **SHAP** revelou os fatores de maior impacto
 * Percepção de corrupção (impacto negativo)
 * Afeto negativo (impacto negativo)
 
-Essas conclusões sugerem que o bem-estar coletivo emerge do equilíbrio entre condições materiais, vínculos sociais, estabilidade emocional e confiança institucional.
+Esses resultados reforçam que o bem-estar coletivo depende de uma combinação entre condições materiais, vínculos sociais, estabilidade emocional e confiança nas instituições.
 
 ---
 
@@ -80,7 +87,7 @@ Essas conclusões sugerem que o bem-estar coletivo emerge do equilíbrio entre c
 * Aplicação web com Streamlit para previsões interativas.
 * Otimização automática (GridSearch/RandomizedSearch) de hiperparâmetros.
 * Inclusão de indicadores culturais e demográficos.
-* Visualizações geográficas interativas em mapas.
+* Visualizações geográficas interativas.
 
 ---
 
@@ -88,3 +95,13 @@ Essas conclusões sugerem que o bem-estar coletivo emerge do equilíbrio entre c
 
 Este projeto é distribuído sob a licença **MIT**.
 Copyright © 2025 **Felipe Cidade**
+
+---
+
+Se quiser, ainda posso gerar um:
+
+📌 `requirements.txt`
+📌 `.gitignore` otimizado para notebooks + Python
+📌 badge visual pro README (ex: MIT, Python version)
+
+Quer algum deles?
