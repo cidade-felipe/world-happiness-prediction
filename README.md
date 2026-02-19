@@ -1,6 +1,6 @@
 # 🌍 World Happiness Prediction
 
-Este projeto analisa os dados do **World Happiness Report (2005–2021)** com dois grandes focos:
+Este projeto analisa os dados do **World Happiness Report (2005–2022)** com dois grandes focos:
 
 1. **Modelagem preditiva em Python**
 2. **Dashboard analítico interativo no Power BI**
@@ -8,7 +8,7 @@ Este projeto analisa os dados do **World Happiness Report (2005–2021)** com do
 O objetivo é entender quais fatores socioeconômicos explicam melhor o **Índice de Felicidade** global e como esses fatores se relacionam ao longo do tempo.
 
 Dataset original:
-[https://www.kaggle.com/datasets/usamabuttar/world-happiness-report-2005-present](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021)
+[https://www.kaggle.com/datasets/usamabuttar/world-happiness-report-2005-present](https://www.kaggle.com/datasets/usamabuttar/world-happiness-report-2005-present)
 
 ---
 
