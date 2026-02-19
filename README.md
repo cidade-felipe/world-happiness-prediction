@@ -30,7 +30,7 @@ Modelos avaliados:
 | Modelo           | R²        | RMSE      | Observação                              |
 | ---------------- | --------- | --------- | --------------------------------------- |
 | Regressão Linear | 0.755     | 0.535     | Captura tendência geral                 |
-| Random Forest    | **0.856** | **0.410** | Melhor desempenho                       |
+| **Random Forest**    | **0.856** | **0.410** | **Melhor desempenho**                       |
 | XGBoost          | 0.850     | 0.418     | Alto desempenho com potencial de tuning |
 
 Principais variáveis associadas à felicidade segundo SHAP:
